@@ -6,9 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rf-rezon&label=Profile%20views&color=0e75b6&style=flat" alt="rf-rezon" /> </p>
 
 
-- 🔭 I’m currently working on [React-Booking-App](https://github.com/RF-Rezon/React-Booking-App)
-
-- 🌱 I’m currently learning **Redux, TypeScript**
+- 🌱 I’m currently learning **E.Js, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RF-Rezon?tab=repositories](https://github.com/RF-Rezon?tab=repositories)
 

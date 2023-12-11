@@ -6,7 +6,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rf-rezon&label=Profile%20views&color=0e75b6&style=flat" alt="rf-rezon" /> </p>
 
 
-- 🌱 I’m currently learning **E.Js, Angular**
+- 🌱 I’m currently learning **E.Js, Solid.Js**
+
+-  🌱 Then i will learn **Astro 🔥**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RF-Rezon?tab=repositories](https://github.com/RF-Rezon?tab=repositories)
 

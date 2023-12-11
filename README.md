@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **E.Js, Solid.Js**
 
--  🌱 Then i will learn **Astro 🔥**
+- 🎉 Then i will learn **Astro 🔥**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RF-Rezon?tab=repositories](https://github.com/RF-Rezon?tab=repositories)
 

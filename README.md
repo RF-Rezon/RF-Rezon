@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rf-rezon&label=Profile%20views&color=0e75b6&style=flat" alt="rf-rezon" /> </p>
 
 
-- 🌱 I’m currently learning **E.Js, Solid.Js**
+- 🌱 I’m currently learning **Redux, Solid.Js**
 
 - 🎉 Then i will learn **Astro 🔥**
 

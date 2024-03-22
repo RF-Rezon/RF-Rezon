@@ -1,4 +1,4 @@
-<img align="center" width="1280px" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="cover-img" />
+<img align="center" width="1280px" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1716422400&v=beta&t=fLoGmXE7kXdhLJJM2zpc0Fbn1yPncImgMKg09phvXFw" alt="cover-img" />
 
 <h1 align="center">Hi 👋, I'm Rejwan Faysal Rezon</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
@@ -6,9 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rf-rezon&label=Profile%20views&color=0e75b6&style=flat" alt="rf-rezon" /> </p>
 
 
-- 🌱 I’m currently learning **Redux, Solid.Js**
-
-- 🎉 Then i will learn **Astro 🔥**
+- 🌱 I’m currently learning **Redux, PostgreSQL** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/RF-Rezon?tab=repositories](https://github.com/RF-Rezon?tab=repositories)
 

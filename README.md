@@ -1,4 +1,4 @@
-<img align="center" width="1280px" height="480px" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1716422400&v=beta&t=fLoGmXE7kXdhLJJM2zpc0Fbn1yPncImgMKg09phvXFw" alt="cover-img" />
+<img align="center" width="1280px" height="480px" object-fit="cover" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_720_1280/0/1656679844338?e=1716422400&v=beta&t=fLoGmXE7kXdhLJJM2zpc0Fbn1yPncImgMKg09phvXFw" alt="cover-img" />
 
 <h1 align="center">Hi 👋, I'm Rejwan Faysal Rezon</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>

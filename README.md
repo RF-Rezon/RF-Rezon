@@ -1,4 +1,4 @@
-<img align="center" width="1280px" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="cover-img" />
+<img align="center" width="1280px" src="https://giffiles.alphacoders.com/732/732.gif" alt="cover-img" />
 
 <h1 align="center">Hi 👋, I'm Rejwan Faysal Rezon</h1>
 <h3 align="center">A passionate Code Lover from Bangladesh</h3>

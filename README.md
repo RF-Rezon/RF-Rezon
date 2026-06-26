@@ -12,7 +12,7 @@
 
 ### 🐍 My GitHub Contributions as Snake Game!
 
-![snake gif](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/RF-Rezon/RF-Rezon/blob/output/github-snake-dark.svg)
 
 ---
 

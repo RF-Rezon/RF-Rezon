@@ -1,14 +1,15 @@
 <div align="center">
 
-# Hi, I'm Rezwan Faysal👋
+# Hi, I'm Rezwan Faysal 👋
 
 ### AI & MLOps Engineer | Machine Learning Engineer | Data Scientist
 
 *Building, deploying, and monitoring end-to-end intelligent systems and scalable production-ready AI applications*
 
+<br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+%26+MLOps+Engineer;Machine+Learning+Engineer;Data+Scientist&center=true&vCenter=true&color=800080&size=30)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+%26+MLOps+Engineer;Machine+Learning+Engineer;Data+Scientist&center=true&vCenter=true&color=800080&size=29)
+<br/>
 
 ---
 
@@ -92,15 +93,6 @@ I am a passionate AI & MLOps Engineer with a strong foundation in Full-Stack Web
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=data-version-control&logoColor=white)
 
----
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-### 📈 Contribution Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true&color=0891b2&line=0891b2&point=ffffff)
-
-</div>
 
 ---
